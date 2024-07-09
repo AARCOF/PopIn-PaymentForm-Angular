@@ -102,7 +102,6 @@
       }
     }
   },
-  "defaultProject": "minimal-example",
   "cli": {
     "analytics": false
   }
